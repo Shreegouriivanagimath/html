@@ -1,3 +1,4 @@
 # html
 This is my first Git repository.
-Authr-Shreegouri Ivanagimath
+<br>
+Author-Shreegouri Ivanagimath
